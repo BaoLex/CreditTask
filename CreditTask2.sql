@@ -29,6 +29,12 @@ CREATE TABLE OrderDetail (
 	UnitAmount varchar(10)
 );
 
+CREATE TABLE Users (
+	UserID varchar(5) PRIMARY KEY,
+	Username varchar(50),
+	Pass varchar(20)
+);
+
 ALTER TABLE Orders
 	ADD FOREIGN KEY (AgentID) REFERENCES Agent(AgentID);
 
@@ -109,3 +115,5 @@ VALUES
 ('OD013', 'ORD07', 'ITM13', '2', '79.99'),
 ('OD014', 'ORD07', 'ITM14', '3', '19.99'),
 ('OD015', 'ORD08', 'ITM15', '1', '39.99');
+
+INSERT INTO Users VALUES ('USR01', 'Admin', 'admin123')
