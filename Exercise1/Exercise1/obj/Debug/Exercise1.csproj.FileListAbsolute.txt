@@ -1,0 +1,12 @@
+E:\521K0008_CreditTask\CreditTask\Exercise1\Exercise1\bin\Debug\Exercise1.exe.config
+E:\521K0008_CreditTask\CreditTask\Exercise1\Exercise1\bin\Debug\Exercise1.exe
+E:\521K0008_CreditTask\CreditTask\Exercise1\Exercise1\bin\Debug\Exercise1.pdb
+E:\521K0008_CreditTask\CreditTask\Exercise1\Exercise1\obj\Debug\Exercise1.csproj.AssemblyReference.cache
+E:\521K0008_CreditTask\CreditTask\Exercise1\Exercise1\obj\Debug\Exercise1.csproj.SuggestedBindingRedirects.cache
+E:\521K0008_CreditTask\CreditTask\Exercise1\Exercise1\obj\Debug\Exercise1.frmLogin.resources
+E:\521K0008_CreditTask\CreditTask\Exercise1\Exercise1\obj\Debug\Exercise1.frmMain.resources
+E:\521K0008_CreditTask\CreditTask\Exercise1\Exercise1\obj\Debug\Exercise1.Properties.Resources.resources
+E:\521K0008_CreditTask\CreditTask\Exercise1\Exercise1\obj\Debug\Exercise1.csproj.GenerateResource.cache
+E:\521K0008_CreditTask\CreditTask\Exercise1\Exercise1\obj\Debug\Exercise1.csproj.CoreCompileInputs.cache
+E:\521K0008_CreditTask\CreditTask\Exercise1\Exercise1\obj\Debug\Exercise1.exe
+E:\521K0008_CreditTask\CreditTask\Exercise1\Exercise1\obj\Debug\Exercise1.pdb
