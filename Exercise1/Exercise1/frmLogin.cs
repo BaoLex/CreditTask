@@ -29,6 +29,7 @@ namespace Exercise1
             String strConn = ConfigurationManager.ConnectionStrings["MyConn"].ConnectionString;
             SqlConnection conn = new SqlConnection(strConn);
             conn.Open();
+
             String sSQL = "SELECT Username, Pass FROM Users WHERE " + "Username = '" + txtUsername.Text + "' AND Pass = '" + txtPassword.Text + "'";
             SqlCommand cmd = new SqlCommand(sSQL, conn);
             SqlDataAdapter da = new SqlDataAdapter(cmd);

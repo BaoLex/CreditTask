@@ -25,5 +25,17 @@ namespace Exercise1
             frmLogin frmLogin = new frmLogin();
             frmLogin.ShowDialog();
         }
+
+        private void productToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmAddProduct frmAddProduct = new frmAddProduct();
+            frmAddProduct.ShowDialog();
+        }
+
+        private void agentToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmAddAgent frmAddAgent = new frmAddAgent();
+            frmAddAgent.ShowDialog();
+        }
     }
 }

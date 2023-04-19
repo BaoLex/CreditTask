@@ -10,3 +10,17 @@ E:\521K0008_CreditTask\CreditTask\Exercise1\Exercise1\obj\Debug\Exercise1.csproj
 E:\521K0008_CreditTask\CreditTask\Exercise1\Exercise1\obj\Debug\Exercise1.csproj.CoreCompileInputs.cache
 E:\521K0008_CreditTask\CreditTask\Exercise1\Exercise1\obj\Debug\Exercise1.exe
 E:\521K0008_CreditTask\CreditTask\Exercise1\Exercise1\obj\Debug\Exercise1.pdb
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\Exercise1\Exercise1\bin\Debug\Exercise1.exe.config
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\Exercise1\Exercise1\bin\Debug\Exercise1.exe
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\Exercise1\Exercise1\bin\Debug\Exercise1.pdb
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\Exercise1\Exercise1\obj\Debug\Exercise1.csproj.AssemblyReference.cache
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\Exercise1\Exercise1\obj\Debug\Exercise1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\Exercise1\Exercise1\obj\Debug\Exercise1.frmLogin.resources
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\Exercise1\Exercise1\obj\Debug\Exercise1.frmMain.resources
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\Exercise1\Exercise1\obj\Debug\Exercise1.Properties.Resources.resources
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\Exercise1\Exercise1\obj\Debug\Exercise1.csproj.GenerateResource.cache
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\Exercise1\Exercise1\obj\Debug\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\Exercise1\Exercise1\obj\Debug\Exercise1.exe
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\Exercise1\Exercise1\obj\Debug\Exercise1.pdb
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\Exercise1\Exercise1\obj\Debug\Exercise1.frmAddProduct.resources
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\Exercise1\Exercise1\obj\Debug\Exercise1.frmAddAgent.resources
