@@ -42,5 +42,10 @@ namespace Exercise1
             }
             MessageBox.Show("Add agent successfully!");
         }
+
+        private void frmAddAgent_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -37,5 +37,11 @@ namespace Exercise1
             frmAddAgent frmAddAgent = new frmAddAgent();
             frmAddAgent.ShowDialog();
         }
+
+        private void ordersToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmOrder frmOrder = new frmOrder();
+            frmOrder.ShowDialog();
+        }
     }
 }

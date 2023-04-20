@@ -68,26 +68,26 @@
             // 
             this.txtAgentID.Location = new System.Drawing.Point(137, 46);
             this.txtAgentID.Name = "txtAgentID";
-            this.txtAgentID.Size = new System.Drawing.Size(398, 20);
+            this.txtAgentID.Size = new System.Drawing.Size(256, 20);
             this.txtAgentID.TabIndex = 3;
             // 
             // txtAgentName
             // 
             this.txtAgentName.Location = new System.Drawing.Point(137, 86);
             this.txtAgentName.Name = "txtAgentName";
-            this.txtAgentName.Size = new System.Drawing.Size(398, 20);
+            this.txtAgentName.Size = new System.Drawing.Size(256, 20);
             this.txtAgentName.TabIndex = 4;
             // 
             // txtAddress
             // 
             this.txtAddress.Location = new System.Drawing.Point(137, 125);
             this.txtAddress.Name = "txtAddress";
-            this.txtAddress.Size = new System.Drawing.Size(398, 20);
+            this.txtAddress.Size = new System.Drawing.Size(256, 20);
             this.txtAddress.TabIndex = 5;
             // 
             // btnAdd
             // 
-            this.btnAdd.Location = new System.Drawing.Point(577, 60);
+            this.btnAdd.Location = new System.Drawing.Point(453, 61);
             this.btnAdd.Name = "btnAdd";
             this.btnAdd.Size = new System.Drawing.Size(142, 68);
             this.btnAdd.TabIndex = 6;
@@ -99,7 +99,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(749, 191);
+            this.ClientSize = new System.Drawing.Size(651, 231);
             this.Controls.Add(this.btnAdd);
             this.Controls.Add(this.txtAddress);
             this.Controls.Add(this.txtAgentName);
@@ -109,6 +109,7 @@
             this.Controls.Add(this.label1);
             this.Name = "frmAddAgent";
             this.Text = "Add Agent";
+            this.Load += new System.EventHandler(this.frmAddAgent_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
