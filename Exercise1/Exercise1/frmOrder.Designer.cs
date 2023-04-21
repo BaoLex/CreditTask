@@ -33,10 +33,10 @@
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.btnView = new System.Windows.Forms.Button();
             this.dataGridView2 = new System.Windows.Forms.DataGridView();
-            this.orderDS = new Exercise1.OrderDS();
+
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.orderDS)).BeginInit();
+
             this.SuspendLayout();
             // 
             // label1
@@ -80,11 +80,8 @@
             this.dataGridView2.Name = "dataGridView2";
             this.dataGridView2.Size = new System.Drawing.Size(584, 69);
             this.dataGridView2.TabIndex = 8;
-            // 
-            // orderDS
-            // 
-            this.orderDS.DataSetName = "OrderDS";
-            this.orderDS.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
+
+
             // 
             // frmOrder
             // 
@@ -101,7 +98,7 @@
             this.Load += new System.EventHandler(this.frmOrder_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.orderDS)).EndInit();
+
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -114,6 +111,6 @@
         private System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.Button btnView;
         private System.Windows.Forms.DataGridView dataGridView2;
-        private OrderDS orderDS;
+
     }
 }
