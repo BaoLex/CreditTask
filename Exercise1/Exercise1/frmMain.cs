@@ -43,5 +43,11 @@ namespace Exercise1
             frmOrder frmOrder = new frmOrder();
             frmOrder.ShowDialog();
         }
+
+        private void bestItemsToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmBestItems frmBestItems = new frmBestItems();
+            frmBestItems.ShowDialog();
+        }
     }
 }

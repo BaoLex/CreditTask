@@ -59,5 +59,26 @@ namespace Exercise1
                 MessageBox.Show("Error");
             }
         }
+
+        private void btnPrint_Click(object sender, EventArgs e)
+        {
+            String strConn = ConfigurationManager.ConnectionStrings["MyConn"].ConnectionString;
+            SqlConnection conn = new SqlConnection(strConn);
+            conn.Open();
+
+            frmPrint frmPrint = new frmPrint();
+            frmPrint.Show();
+
+            String sSQL = "SELECT * FROM OrderDetail WHERE OrderID = '" + txtOrderID.Text + "'";
+            SqlCommand cmd = new SqlCommand(sSQL, conn);
+            SqlDataAdapter da = new SqlDataAdapter(cmd);
+            DataSet ds = new DataSet();
+            da.Fill(ds, "OrderDetail");
+
+            rptOrder rpt = new rptOrder();
+            rpt.SetDataSource(ds);
+            frmPrint.crystalReportViewer1.ReportSource = rpt;
+            frmPrint.crystalReportViewer1.Refresh();
+        }
     }
 }

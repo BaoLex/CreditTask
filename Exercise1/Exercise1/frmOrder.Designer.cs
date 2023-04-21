@@ -33,10 +33,9 @@
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.btnView = new System.Windows.Forms.Button();
             this.dataGridView2 = new System.Windows.Forms.DataGridView();
-
+            this.btnPrint = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).BeginInit();
-
             this.SuspendLayout();
             // 
             // label1
@@ -65,7 +64,7 @@
             // 
             // btnView
             // 
-            this.btnView.Location = new System.Drawing.Point(405, 39);
+            this.btnView.Location = new System.Drawing.Point(415, 39);
             this.btnView.Name = "btnView";
             this.btnView.Size = new System.Drawing.Size(68, 23);
             this.btnView.TabIndex = 7;
@@ -80,14 +79,23 @@
             this.dataGridView2.Name = "dataGridView2";
             this.dataGridView2.Size = new System.Drawing.Size(584, 69);
             this.dataGridView2.TabIndex = 8;
-
-
+            // 
+            // btnPrint
+            // 
+            this.btnPrint.Location = new System.Drawing.Point(530, 39);
+            this.btnPrint.Name = "btnPrint";
+            this.btnPrint.Size = new System.Drawing.Size(75, 23);
+            this.btnPrint.TabIndex = 9;
+            this.btnPrint.Text = "Print";
+            this.btnPrint.UseVisualStyleBackColor = true;
+            this.btnPrint.Click += new System.EventHandler(this.btnPrint_Click);
             // 
             // frmOrder
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(654, 450);
+            this.Controls.Add(this.btnPrint);
             this.Controls.Add(this.dataGridView2);
             this.Controls.Add(this.btnView);
             this.Controls.Add(this.dataGridView1);
@@ -98,7 +106,6 @@
             this.Load += new System.EventHandler(this.frmOrder_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).EndInit();
-
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -111,6 +118,6 @@
         private System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.Button btnView;
         private System.Windows.Forms.DataGridView dataGridView2;
-
+        private System.Windows.Forms.Button btnPrint;
     }
 }
