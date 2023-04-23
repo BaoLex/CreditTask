@@ -43,7 +43,7 @@ namespace Exercise1
             }
             else
             {
-                MessageBox.Show("Error");
+                MessageBox.Show("Invalid order");
             }
 
             SqlCommand cmd2 = new SqlCommand(sSQL2, conn);
@@ -56,7 +56,7 @@ namespace Exercise1
             }
             else
             {
-                MessageBox.Show("Error");
+                MessageBox.Show("No data recorded");
             }
         }
 
@@ -79,6 +79,11 @@ namespace Exercise1
             rpt.SetDataSource(ds);
             frmPrint.crystalReportViewer1.ReportSource = rpt;
             frmPrint.crystalReportViewer1.Refresh();
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
         }
     }
 }

@@ -96,3 +96,5 @@ C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\Exercise1\Ex
 C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\Exercise1\Exercise1\bin\Debug\CrystalDecisions.Windows.Forms.dll
 C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\Exercise1\Exercise1\obj\Debug\Exercise1.frmPrint.resources
 C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\Exercise1\Exercise1\obj\Debug\Exercise1.frmBestItems.resources
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\Exercise1\Exercise1\bin\Debug\nunit.framework.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\Exercise1\Exercise1\bin\Debug\nunit.framework.xml
