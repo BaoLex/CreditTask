@@ -1,0 +1,28 @@
+﻿@page
+@model Lab8.Pages.Model.OrderDetailModel
+@{
+}
+
+<table class="table">
+	<thread>
+		<tr>
+			<th>ID</th>
+			<th>Order ID</th>
+			<th>Item ID</th>
+			<th>Quantity</th>
+			<th>Unit Amount</th>
+		</tr>
+	</thread>
+	<tbody>
+		@foreach (var OrderDe in Model.listOrderDe)
+		{
+			<tr>
+				<td>@OrderDe.ID</td>
+				<td>@OrderDe.OrderID</td>
+				<td>@OrderDe.ItemID</td>
+				<td>@OrderDe.Quantity</td>
+				<td>@OrderDe.UnitAmount</td>
+			</tr>
+		}
+	</tbody>
+</table>

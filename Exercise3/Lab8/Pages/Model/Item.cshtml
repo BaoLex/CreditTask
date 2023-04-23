@@ -1,0 +1,27 @@
+﻿@page
+@model Lab8.Pages.Model.ItemsModel
+@{
+}
+<table class="table">
+	<thread>
+		<tr>
+			<th>ItemID</th>
+			<th>Item Name</th>
+			<th>Size</th>
+			<th>Price</th>
+			<th>Quantity</th>
+		</tr>
+	</thread>
+	<tbody>
+		@foreach (var item in Model.listItem)
+		{
+			<tr>
+				<td>@item.ItemID</td>
+				<td>@item.ItemName</td>
+				<td>@item.Size</td>
+				<td>@item.Price</td>
+				<td>@item.Quantity</td>
+			</tr>
+		}
+	</tbody>
+</table>

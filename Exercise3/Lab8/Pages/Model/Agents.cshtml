@@ -1,0 +1,25 @@
+﻿@page
+@model Lab8.Pages.Model.AgentsModel
+@{
+}
+
+<table class="table">
+	<thread>
+		<tr>
+			<th>Agent ID</th>
+			<th>Agent Name</th>
+			<th>Addess</th>
+		</tr>
+	</thread>
+	<tbody>
+		@foreach (var Agent in Model.listAgent)
+		{
+			<tr>
+				<td>@Agent.AgentID</td>
+				<td>@Agent.AgentName</td>
+				<td>@Agent.Address</td>
+			</tr>
+		}
+	</tbody>
+</table>
+

@@ -4,8 +4,12 @@
     "\\Exercise1",
     "\\Exercise1\\Exercise1",
     "\\Exercise1\\Exercise1\\obj",
-    "\\Exercise2"
+    "\\Exercise2",
+    "\\Exercise3",
+    "\\Exercise3\\Lab8",
+    "\\Exercise3\\Lab8\\Pages",
+    "\\Exercise3\\Lab8\\Pages\\Model"
   ],
-  "SelectedNode": "\\Exercise1\\Exercise1\\frmOrder.cs",
+  "SelectedNode": "\\Exercise3\\Lab8\\Pages\\Model\\AccountController.cs",
   "PreviewInSolutionExplorer": false
 }
