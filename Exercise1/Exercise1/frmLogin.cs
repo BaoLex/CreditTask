@@ -24,7 +24,7 @@ namespace Exercise1
 
         }
 
-        private void btnLogin_Click(object sender, EventArgs e)
+        private void btnLogin_Click(object sender, EventArgs e) 
         {
             String strConn = ConfigurationManager.ConnectionStrings["MyConn"].ConnectionString;
             SqlConnection conn = new SqlConnection(strConn);
@@ -46,12 +46,17 @@ namespace Exercise1
             }
         }
 
-        private void btnExit_Click(object sender, EventArgs e)
+        private void btnExit_Click(object sender, EventArgs e) 
         {
             Application.Exit();
         }
 
         private void txtUsername_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void frmLogin_Load(object sender, EventArgs e)
         {
 
         }

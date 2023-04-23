@@ -149,6 +149,7 @@
             this.Controls.Add(this.txtProdID);
             this.Name = "frmAddProduct";
             this.Text = "Add Products";
+            this.Load += new System.EventHandler(this.frmAddProduct_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

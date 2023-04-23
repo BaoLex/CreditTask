@@ -44,5 +44,10 @@ namespace Exercise1
             }
             MessageBox.Show("Add product successfully!");
         }
+
+        private void frmAddProduct_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
