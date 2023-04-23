@@ -1,11 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Exercise1",
     "\\Exercise1\\Exercise1",
-    "\\Exercise1\\Exercise1\\bin",
-    "\\Exercise1\\Exercise1\\obj"
+    "\\Exercise1\\Exercise1\\obj",
+    "\\Exercise2"
   ],
-  "SelectedNode": "\\Exercise1\\Exercise1.sln",
+  "SelectedNode": "\\Exercise2\\CreditTask.sln",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,74 @@
+﻿@model IEnumerable<CreditTask.Models.Order>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.OrderDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Agent.AgentName)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.OrderDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Agent.AgentName)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.OrderID }) |
+                @Html.ActionLink("Details", "Details", new { id = item.OrderID }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.OrderID })
+            </td>
+        </tr>
+    }
+
+</table>
+<button id="print-button" class="btn"><i class="fas fa-print"></i>Print Page</button>
+<script>
+    const printButton = document.getElementById('print-button');
+    const printPage = () => {
+        const printFrame = document.createElement('iframe');
+        printFrame.style.display = 'none';
+        printFrame.src = 'Orders';
+        document.body.appendChild(printFrame);
+        printFrame.contentWindow.focus();
+        printFrame.contentWindow.print();
+    };
+    printButton.addEventListener('click', () => {
+        printPage();
+    });
+</script>
+<style>
+    @@media print {
+        #print-button {
+            display: none;
+        }
+
+        .create {
+            display: none;
+        }
+
+        .edit {
+            display: none;
+        }
+
+        .h2 {
+            text-align: center;
+        }
+    }
+</style>

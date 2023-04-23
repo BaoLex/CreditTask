@@ -1,0 +1,166 @@
+D:\Software\CreditTask\CreditTask\CreditTask\bin\CreditTask.dll.config
+D:\Software\CreditTask\CreditTask\CreditTask\bin\CreditTask.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\CreditTask.pdb
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\csc.exe
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\csc.exe.config
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\csc.rsp
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\csi.exe
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\csi.exe.config
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\csi.rsp
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\System.AppContext.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\System.Collections.Immutable.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\System.Console.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\System.Globalization.Calendars.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\System.IO.Compression.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\System.IO.FileSystem.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\System.Net.Http.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\System.Net.Sockets.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\System.Reflection.Metadata.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\System.ValueTuple.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\System.Xml.XPath.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\vbc.exe
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\vbc.exe.config
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\vbc.rsp
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\VBCSCompiler.exe
+D:\Software\CreditTask\CreditTask\CreditTask\bin\roslyn\VBCSCompiler.exe.config
+D:\Software\CreditTask\CreditTask\CreditTask\bin\Antlr3.Runtime.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\EntityFramework.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\EntityFramework.SqlServer.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\Microsoft.Web.Infrastructure.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\Newtonsoft.Json.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\System.Web.Helpers.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\System.Web.Mvc.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\System.Web.Optimization.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\System.Web.Razor.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\System.Web.WebPages.Deployment.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\System.Web.WebPages.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\System.Web.WebPages.Razor.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\WebGrease.dll
+D:\Software\CreditTask\CreditTask\CreditTask\bin\EntityFramework.xml
+D:\Software\CreditTask\CreditTask\CreditTask\bin\EntityFramework.SqlServer.xml
+D:\Software\CreditTask\CreditTask\CreditTask\bin\System.Web.Helpers.xml
+D:\Software\CreditTask\CreditTask\CreditTask\bin\System.Web.Mvc.xml
+D:\Software\CreditTask\CreditTask\CreditTask\bin\System.Web.Optimization.xml
+D:\Software\CreditTask\CreditTask\CreditTask\bin\System.Web.Razor.xml
+D:\Software\CreditTask\CreditTask\CreditTask\bin\System.Web.WebPages.xml
+D:\Software\CreditTask\CreditTask\CreditTask\bin\System.Web.WebPages.Deployment.xml
+D:\Software\CreditTask\CreditTask\CreditTask\bin\System.Web.WebPages.Razor.xml
+D:\Software\CreditTask\CreditTask\CreditTask\bin\Newtonsoft.Json.xml
+D:\Software\CreditTask\CreditTask\CreditTask\bin\Antlr3.Runtime.pdb
+D:\Software\CreditTask\CreditTask\CreditTask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Software\CreditTask\CreditTask\CreditTask\obj\Debug\CreditTask.csproj.AssemblyReference.cache
+D:\Software\CreditTask\CreditTask\CreditTask\obj\Debug\CreditTask.csproj.CoreCompileInputs.cache
+D:\Software\CreditTask\CreditTask\CreditTask\obj\Debug\CreditTask.csproj.CopyComplete
+D:\Software\CreditTask\CreditTask\CreditTask\obj\Debug\CreditTask.dll
+D:\Software\CreditTask\CreditTask\CreditTask\obj\Debug\CreditTask.pdb
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\CreditTask.dll.config
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\CreditTask.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\CreditTask.pdb
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\csc.exe
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\csc.exe.config
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\csc.rsp
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\csi.exe
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\csi.exe.config
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\csi.rsp
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\System.AppContext.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\System.Console.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\System.IO.Compression.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\System.Net.Http.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\System.ValueTuple.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\vbc.exe
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\vbc.exe.config
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\vbc.rsp
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\Antlr3.Runtime.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\EntityFramework.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\EntityFramework.SqlServer.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\Newtonsoft.Json.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\System.Web.Helpers.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\System.Web.Mvc.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\System.Web.Optimization.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\System.Web.Razor.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\System.Web.WebPages.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\System.Web.WebPages.Razor.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\WebGrease.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\EntityFramework.xml
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\EntityFramework.SqlServer.xml
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\System.Web.Helpers.xml
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\System.Web.Mvc.xml
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\System.Web.Optimization.xml
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\System.Web.Razor.xml
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\System.Web.WebPages.xml
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\System.Web.WebPages.Razor.xml
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\Newtonsoft.Json.xml
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\Antlr3.Runtime.pdb
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\obj\Debug\CreditTask.csproj.AssemblyReference.cache
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\obj\Debug\CreditTask.csproj.CoreCompileInputs.cache
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\obj\Debug\CreditTask.csproj.CopyComplete
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\obj\Debug\CreditTask.dll
+C:\Users\Gary\TDTU\SoftwareTechnology\Credit Task\BaoLex\CreditTask\CreditTask\CreditTask\obj\Debug\CreditTask.pdb
